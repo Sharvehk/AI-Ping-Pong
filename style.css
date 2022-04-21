@@ -1,0 +1,16 @@
+body
+{
+  color: white;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+    text-align: left;
+}
+
+.instruction_button{
+    float: right ;
+}
+
